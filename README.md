@@ -3,17 +3,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
-- 🔭 I’m currently working on **A fitness tracker**
+- 🔭 I’m currently working on **A WhatsApp Chatbot**
 
-- 🌱 I’m currently learning **NodeJs, MongoDb, ExpressJs, CS50P,**
+- 🌱 I’m currently learning **MCP, AI Agents, Orchestration, Scalability**
 
 - 🤝 I’m looking for help with **AI powered Anti-theft Technology**
 
-- 💬 Ask me about **Flutter, ReactJs, Web Development, Python, C**
+- 💬 Ask me about **Flutter, ReactJs, Web Development, Python, C, AI, GenAI**
 
 - 📫 How to reach me **mishalreueld25@gmail.com**
 
-- ⚡ Fun fact **I think I am a Jack of all trades**
+- ⚡ Fun fact **I am Specialized Generalist**
 
 
 
