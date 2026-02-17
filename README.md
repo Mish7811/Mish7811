@@ -1,25 +1,75 @@
-<h1 align="center">Hi 👋, I'm Mishal</h1>
-<h3 align="center">An aspiring software enthusiast from India</h3>
+<h1 align="center">Mishal Reuel</h1>
+<h3 align="center">Software Developer | Automation & DevOps Projects</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
+<p align="center">
+I build practical automation systems, CI/CD pipelines, and API-driven applications that reduce manual workflows and improve operational efficiency.
+</p>
 
-- 🔭 I’m currently working on **A WhatsApp Chatbot**
+---
 
-- 🌱 I’m currently learning **MCP, AI Agents, Orchestration, Scalability**
+## 🧠 About Me
 
-- 🤝 I’m looking for help with **AI powered Anti-theft Technology**
+- 🎓 B.Tech CSE (Cybersecurity) | SRM IST
+- 💼 Former Development Intern at Hexaware Technologies
+- ⚙️ Focused on Automation, CI/CD, and API Integrations
+- 📦 Built and deployed real-world workflow automation systems
+- 🚀 Currently exploring AI Agents, orchestration, and scalable backend systems
 
-- 💬 Ask me about **Flutter, ReactJs, Web Development, Python, C, AI, GenAI**
+---
 
-- 📫 How to reach me **mishalreueld25@gmail.com**
+## 🔥 Featured Work
 
-- ⚡ Fun fact **I am Specialized Generalist**
+### ⚡ CI/CD Automation for 3D Rendering Pipeline
+- Reduced rendering time by **96% (300 hrs → 12 hrs)**
+- Built Azure DevOps pipeline automation
+- Optimized task distribution across self-hosted agents
+- Improved operational efficiency by 90%
 
+### 🎵 Church Songbook Workflow Automation
+- Designed slot-based parallel workflow system (A/B/C model)
+- Automated Google Slides updates via service account
+- Used Google Sheets for state tracking (pending → done)
+- Reduced weekly manual effort by ~80%
 
+### ▶️ YouTube Playlist & Lyrics Automation
+- API-driven playlist management system
+- Automated YouTube → spreadsheet data pipelines
+- Implemented structured error handling & reliability improvements
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">[![Mish's GitHub stats]</h3>
+## 🛠 Tech Stack
 
-(https://github-readme-stats.vercel.app/api?username=Mish7811)](https://github.com/anuraghazra/github-readme-stats)
+### 💻 Programming
+Python • JavaScript • Java • SQL • C
+
+### 🌐 Web & Backend
+React • Node.js • FastAPI • HTML • CSS
+
+### ⚙️ DevOps & Automation
+Azure DevOps • CI/CD • Docker (Basics) • Git • Google Apps Script
+
+### ☁️ Cloud & Platforms
+Azure (Basics) • AWS (Basics) • Google APIs
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mish7811&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact
+
+📧 mishalreueld25@gmail.com  
+🔗 LinkedIn  
+🌐 Portfolio  
+
+---
+
+<p align="center">
+Building systems that reduce friction and scale workflows.
+</p>
