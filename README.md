@@ -65,7 +65,7 @@ Azure (Basics) • AWS (Basics) • Google APIs
 ## 📫 Contact
 
 📧 mishalreueld25@gmail.com  
-🔗 LinkedIn  
+🔗 <a href="https://portfolio-mishal-reuel.vercel.app/">LinkedIn<a/>  
 🌐 Portfolio  
 
 ---
