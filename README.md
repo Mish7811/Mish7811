@@ -10,6 +10,7 @@ I build practical automation systems, CI/CD pipelines, and API-driven applicatio
 ## 🧠 About Me
 
 - 🎓 B.Tech CSE (Cybersecurity) | SRM IST
+- 🧑‍💻 Assistant System Engineer(ASE) Trainee at TCS
 - 💼 Former Development Intern at Hexaware Technologies
 - ⚙️ Focused on Automation, CI/CD, and API Integrations
 - 📦 Built and deployed real-world workflow automation systems
@@ -44,10 +45,10 @@ I build practical automation systems, CI/CD pipelines, and API-driven applicatio
 Python • JavaScript • Java • SQL • C
 
 ### 🌐 Web & Backend
-React • Node.js • FastAPI • HTML • CSS
+React • TypeScript • Vite • Node.js • FastAPI • HTML • CSS
 
 ### ⚙️ DevOps & Automation
-Azure DevOps • CI/CD • Docker (Basics) • Git • Google Apps Script
+Azure DevOps • CI/CD • Docker (Basics) • Git • Google Apps Script • UNIX
 
 ### ☁️ Cloud & Platforms
 Azure (Basics) • AWS (Basics) • Google APIs
